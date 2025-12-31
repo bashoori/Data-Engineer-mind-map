@@ -1,6 +1,6 @@
 # Data Engineer – Enterprise-Level Mind Map
 
-                              DATA ENGINEER (Enterprise Level)
+                                                   DATA ENGINEER (Enterprise Level)
                                          │
         ┌────────────────────────────────┼────────────────────────────────┐
         │                                │                                │
@@ -30,8 +30,8 @@ Logging                          Surrogate Keys     Business Rules Soft Delete  
                                          │
                                    DELIVERY PIPELINE
                                          │
-        ┌────────────────────────────────┼────────────────────────────────┐
-        │                                │                                │
+        ┌────────────────────────────────┼────────────────────────────────┼────────────────────────────────┐
+        │                                │                                │                                │
      SOURCE                          LANDING                          CURATED                       CONSUMPTION
         │                                │                                │                                │
  APIs / CSV / DB                  Raw Storage                     Business Logic                 Dashboards
